@@ -36,3 +36,6 @@
 ### Technology Adoption and Usage
 - `ProfessionalTech`: Technologies used professionally, relevant for matching skills to job profiles.
 - `Industry`: The industry the respondent works in, which might influence the type of technologies used and required skills.
+
+### deploy
+Go to the directory and use ` streamlit run app/app.py`
