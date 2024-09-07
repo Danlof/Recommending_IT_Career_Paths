@@ -28,15 +28,16 @@
 - `Industry`: The industry the respondent works in, which might influence the type of technologies used and required skills.
 
 ### Clustering
-
-    `KMeans Clustering`: Job profiles are grouped into clusters based on their features.
-    `PCA Transformation`: Reduces the feature dimensions for better clustering performance.
+`KMeans Clustering`: Job profiles are grouped into clusters based on their features.
+`PCA Transformation`: Reduces the feature dimensions for better clustering performance.
 
 ### Usage
 
  - Job recommendations based on skills and experience:
 
+```
 student_skills = ['Python', 'SQL', 'AWS']
 experience_years = 5
 recommended_jobs = hybrid_recommend_jobs(student_skills, experience_years)
 print(recommended_jobs)
+```
