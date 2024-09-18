@@ -2,6 +2,9 @@
 
 - For this project mostly the columns to use are those that provide insights into job profiles,technologies, and skills 
 
+### Data 
+- We used the 2023 Stack Overflow Annual Developer Survey. It can be found [here](https://cdn.stackoverflow.co/files/jo7n4k8s/production/49915bfd46d0902c3564fd9a06b509d08a20488c.zip/stack-overflow-developer-survey-2023.zip).
+
 ### Job profiles and roles 
 - `DevType`: This column represents the type of developer or IT professional the respondent identifies as, which is crucial for understanding job profiles.
 
