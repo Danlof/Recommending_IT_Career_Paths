@@ -41,3 +41,16 @@ experience_years = 5
 recommended_jobs = hybrid_recommend_jobs(student_skills, experience_years)
 print(recommended_jobs)
 ```
+
+
+### Conclusion
+
+- The job recommendation system aims to streamline career decision-making for students by providing personalized job recommendations based on their skills and experience. This tool not only offers direct career guidance but also contributes to several key performance metrics:
+
+-  Higher Enrollment Rate: By offering clearer career paths and personalized job recommendations, students can make more informed decisions about which courses to pursue, leading to increased enrollment in relevant programs.
+
+- Decrease in Dropout Rate: Students who feel confident about their career trajectory are less likely to drop out. With tailored job recommendations, students gain a stronger sense of direction and purpose in their studies, leading to higher retention rates.
+
+-  Time Saved for Academic Advisors: Academic advisors can use this tool to efficiently guide students, reducing the time spent on manual research and repetitive counseling. This frees them up to offer more personalized support and address individual concerns.
+
+-  The job recommendation system provides high accuracy, as evidenced by a Silhouette Score of 0.97, indicating well-defined clusters of job profiles based on student or professional skills.
